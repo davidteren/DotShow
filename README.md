@@ -7,7 +7,7 @@ Finder Toolbar utility that makes showing &amp; hiding .dotfiles in Finder easy.
 
 
 **Demo** 
-Here we can see the dotfiles files shown & hedden.
+Here we can see the dotfiles files shown & hidden.
 ![demo](https://github.com/davidteren/DotShow/blob/master/images/DotShow.gif?raw=true)
 
 
