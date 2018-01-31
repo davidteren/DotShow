@@ -1,7 +1,19 @@
 
+![icon_logo](https://github.com/davidteren/DotShow/blob/master/images/gwenview.png?raw=true)
+
 # DotShow
 
 Finder Toolbar utility that makes showing &amp; hiding .dotfiles in Finder easy.
+
+
+**Enabled** 
+Here we can see the dotfiles files.
+![dotfiles are visable](https://github.com/davidteren/DotShow/blob/master/images/show_enabled.png?raw=true)
+
+
+**Disabled**
+Here the dot files are hidden.
+![dotfiles are hidden](https://github.com/davidteren/DotShow/blob/master/images/show_disabled.png?raw=true)
 
 **Install & Use:** 
 
