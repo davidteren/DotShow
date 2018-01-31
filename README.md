@@ -13,6 +13,6 @@ Here we can see the dotfiles files shown & hidden.
 
 **Install & Use:** 
 
- 1. Download from the [release page](https://github.com/davidteren/DotShow/releases)
+ 1. Download[here](https://goo.gl/2o9Rtw), unzip and place in your Applications folder. 
  2. Simply drag the DopShow.app to your Finder Toolbar while pressing Cmd key. 
  3. Click to the icon show/hide all those hidden files in your home. 
